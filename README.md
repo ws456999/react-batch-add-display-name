@@ -1,5 +1,5 @@
-# 脚本-给react项目批量添加displayname
-
+# react-batch-add-display-name
+add all react component displayName which don't have displayName yet
 > internal
 
 ## try
